@@ -1,0 +1,7 @@
+D:\GitHub\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\GitHub\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\GitHub\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\GitHub\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+D:\GitHub\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+D:\GitHub\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\GitHub\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
